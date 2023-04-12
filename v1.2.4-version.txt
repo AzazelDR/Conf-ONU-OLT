@@ -1,0 +1,11 @@
+Versión 1.2.4 - 12 de abril de 2023
+Autor: Axel Reyes
+
+Nuevas características:
+- Se separó los lugares de instalacion segun service-port e interface
+- Se agrego la opcion para buscar actualizaciones en linea
+
+Correcciones de errores:
+- Se corrigió un error que causaba que Rachell pensara que ya habia instalado el programa pero era el instalador que selecionaba nuevamente.
+
+¡Gracias por utilizar nuestra aplicación! Por favor, contáctanos si tienes alguna pregunta o problema.
